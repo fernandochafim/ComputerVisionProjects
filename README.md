@@ -5,6 +5,6 @@ A sample of Computer Vision projects for personal learning purpose.
 
 Kick start project. Face and Eyes detection using 
 
-![Alt Text](img/giphy.gif)
+![AltText](img/OpenCV_GIF.gif)
 
 Paul Viola and Michael J. Jones. Rapid Object Detection using a Boosted Cascade of Simple Features. IEEE CVPR, 2001
